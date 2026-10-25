@@ -1,7 +1,25 @@
+
 {
+  "name": "aurex-month-2-week-3-backend-api",
+  "version": "1.0.0",
+  "description": "AUREX Month 2 Week 3 - RESTful Task Management API using Node.js, Express, and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest-api",
+    "aurex-internship"
+  ],
+  "author": "Noor Fatima",
+  "license": "ISC",
   "dependencies": {
     "dotenv": "^18.0.9",
     "express": "^5.3.0",
     "mongoose": "^9.11.4"
   }
 }
+
